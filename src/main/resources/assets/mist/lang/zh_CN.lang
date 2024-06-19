@@ -565,8 +565,8 @@ item.mist.wing.name=虫翅
 item.mist.swim_bladder.name=荒漠鱼鱼鳔
 
 ### Food
-item.mist.meat_mossling.name=苔毛猪肉
-item.mist.meat_mossling_c.name=熟苔毛猪肉
+item.mist.meat_mossling.name=苔毛豚肉
+item.mist.meat_mossling_c.name=熟苔毛豚肉
 item.mist.meat_forest_runner.name=森林跑者肉
 item.mist.meat_forest_runner_c.name=熟森林跑者肉
 item.mist.meat_momo.name=莫貘肉
@@ -653,7 +653,7 @@ item.mist.respirator_rubber_open.name=开放式橡胶口罩
 item.mist.respirator_impermeability.tooltip=气密性
 item.mist.respirator_efficiency.tooltip=过滤效率
 item.mist.respirator_close.tooltip=你的嘴被口罩挡住了
-item.mist.filter.tooltip=已滤除
+item.mist.filter.tooltip=已装有滤芯
 item.mist.filter_depth.tooltip=过滤程度
 item.mist.filter_damage.tooltip=污染程度
 item.mist.filter_empty.tooltip=空
@@ -715,7 +715,7 @@ item.mist.acid_bucket.name=酸液桶
 
 ### Entities
 entity.mist.painting.name=画
-entity.mist.mossling.name=苔毛猪
+entity.mist.mossling.name=苔毛豚
 entity.mist.forest_runner.name=森林跑者
 entity.mist.momo.name=莫貘
 entity.mist.barvog.name=巴沃格
@@ -735,7 +735,7 @@ entity.mist.forest_spider.name=林地蜘蛛
 entity.mist.swamp_crab.name=沼泽蟹
 entity.mist.snow_flea.name=雪地跳虫
 entity.mist.woodlouse.name=热带潮虫
-entity.mist.cyclops.name=独眼蝎子
+entity.mist.cyclops.name=独眼蝎
 entity.mist.desert_fish.name=荒漠鱼
 
 # DamageSourse
@@ -845,7 +845,7 @@ advancements.mist.toxic=真是美好的一天！
 advancements.mist.toxic.desc=毒素积累达到10%%
 advancements.mist.detoxic=非转基因
 advancements.mist.detoxic.desc=食用可排毒的食物
-advancements.mist.pollution=PO2Lu3TiO2N
+advancements.mist.pollution=汚蒅
 advancements.mist.pollution.desc=化学污染积累达到10%%
 advancements.mist.soap=制皂人
 advancements.mist.soap.desc=用脂肪，灰烬和硝石制作肥皂
