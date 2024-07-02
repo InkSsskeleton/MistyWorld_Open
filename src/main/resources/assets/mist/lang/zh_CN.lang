@@ -718,22 +718,22 @@ entity.mist.painting.name=画
 entity.mist.mossling.name=苔毛豚
 entity.mist.forest_runner.name=森林跑者
 entity.mist.momo.name=莫貘
-entity.mist.barvog.name=巴沃格
+entity.mist.barvog.name=桶蜥
 entity.mist.prickler.name=刺球兽
 entity.mist.caravan.name=群行驼
-entity.mist.wulder.name=沃尔德野牛
-entity.mist.horb.name=霍布
+entity.mist.wulder.name=毛德尔野牛
+entity.mist.horb.name=驼布
 entity.mist.sniff.name=嗅寻兽
 entity.mist.sloth.name=树懒
-entity.mist.monk.name=蒙克
+entity.mist.monk.name=僧祈兽
 entity.mist.galaga.name=嘎拉加
-entity.mist.hulter.name=霍尔特
-entity.mist.brachiodon.name=布拉奇顿
+entity.mist.hulter.name=获特尔
+entity.mist.brachiodon.name=巨肩猛犸
 
-entity.mist.grave_bug.name=墓穴虫
+entity.mist.grave_bug.name=墓穴甲虫
 entity.mist.forest_spider.name=林地蜘蛛
 entity.mist.swamp_crab.name=沼泽蟹
-entity.mist.snow_flea.name=雪地跳虫
+entity.mist.snow_flea.name=雪地跳蚤
 entity.mist.woodlouse.name=热带潮虫
 entity.mist.cyclops.name=独眼蝎
 entity.mist.desert_fish.name=荒漠鱼
@@ -765,7 +765,7 @@ keybind.mist.skill_inventory=技能菜单
 
 commands.setmisteffects.usage=/setmisteffects <玩家> <效果> [数值] 或 /setmisteffects <玩家> clear
 commands.setmisteffects.notfound=没有名为%s的效果
-commands.setmisteffects.failure.badcapability=玩家%1$s能力错误
+commands.setmisteffects.failure.badcapability=玩家%1$s技能错误
 commands.setmisteffects.failure.notactive.all=玩家%1$s未带有效果
 commands.setmisteffects.failure.notactive.pollution=玩家%1$s未带有化学污染效果
 commands.setmisteffects.failure.notactive.toxic=玩家%1$s未带有毒素积累效果
@@ -777,7 +777,7 @@ commands.setmisteffects.success.toxic=已将%1$s的毒素积累效果设为%2$s%
 
 commands.setmistskills.usage=/setmistskills <玩家> <技能> [数值]
 commands.setmistskills.notfound=没有名为%s的技能
-commands.setmistskills.failure.badcapability=玩家%1$s能力错误
+commands.setmistskills.failure.badcapability=玩家%1$s技能错误
 commands.setmistskills.success=已将%1$s的%2$s技能等级设为%3$s
 
 # Advancements
